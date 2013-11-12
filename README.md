@@ -1,4 +1,4 @@
-# dFiddle 2.0
+# dFiddle 2.0 
 >  **2013/10/23*: Update to release version of [Durandal] 2.0.1
 
 JSFiddle et al. are all great when there's a need to fiddle with CSS/JavaScript/HTML snippets or
